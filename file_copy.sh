@@ -1,2 +1,2 @@
 #!/bin/bash
-scp /var/lib/jenkins/demo/test ec2-user@3.110.207.147:/home/ec2-user/
+scp /var/lib/jenkins/demo/test ec2-user@13.126.254.77:/home/ec2-user/
